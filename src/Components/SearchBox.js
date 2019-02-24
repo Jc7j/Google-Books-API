@@ -1,3 +1,5 @@
+// Search box 
+
 import React from 'react';
 
 const SearchBox = (props) => {
@@ -7,6 +9,8 @@ const SearchBox = (props) => {
                 <input onChange={props.handleSearch} type="text"/>
             </form>
         </div>
+
+        
     )
 }
 

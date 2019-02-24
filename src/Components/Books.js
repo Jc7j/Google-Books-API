@@ -1,3 +1,5 @@
+// This initiates the request to grab from googles api books and sends results back.
+
 import React, { Component } from 'react';
 import SearchBox from './SearchBox';
 import request from 'superagent';
@@ -21,6 +23,7 @@ class Books extends Component {
                 console.log(data);
                 this.setState({books: [...data.body.items]})
             }).catch ((e) => {
+                // If search is not found, nothing happens
                 return null;
             });
     }

@@ -1,3 +1,5 @@
+// This sets property to the value of selected material from google books api.
+
 import React from 'react';
 import BookCard from './BookCard';
 

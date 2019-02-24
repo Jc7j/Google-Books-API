@@ -1,14 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chingu Google Books Project
 
-## Available Scripts
+This single page website lets you search for a book using the google books. You can click on the book and it will open new tab, showing the book on the google website.
+
+# Available Scripts
+This project was bootstrapped with Create React App.
 
 In the project directory, you can run:
 
-### `npm start`
-### `npm test`
-### `npm run build`
-### `npm run eject`
-<<<<<<< HEAD
-=======
+`npm start`
+`npm test`
+`npm run build`
+`npm run eject`
 
->>>>>>> 20da13c132ea2c7e6dc90ec6369addd1afef7f92
+ # Demo
+ ![](googleBooksDemo.gif)
+
+ If you'd like to view the website, it is live on heroku through [here](https://jc7jchingugooglebooksapi.herokuapp.com/).
+
+ 

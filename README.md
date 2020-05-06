@@ -1,4 +1,4 @@
-# Chingu Google Books Project
+# Google Books Project
 
 This single page website lets you search for a book using the google books. You can click on the book and it will open new tab, showing the book on the google website.
 
